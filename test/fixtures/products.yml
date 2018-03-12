@@ -1,19 +1,21 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
 one:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 
-  apt-get: MyString
-  install: MyString
-  nodejs: MyString
+  title: Primer Producto
+  description: Primera descripcion
+  image_url: uri.jpg
+  price: 0.15
+
 
 two:
-  title: MyString
-  description: MyText
-  image_url: MyString
-  price: 
-  apt-get: MyString
-  install: MyString
-  nodejs: MyString
+  title: Second Product
+  description: other
+  image_url: lapiz.jpeg
+  price: 1.0
+
+
+ruby:
+  title: Programming Ruby 1.9
+  description: Ruby is the fastest growing and most exciting dynamic language out there. If you need to get working programs delivered fast, you should add Ruby to your toolbox.
+  price: 49.50
+  image_url: lapiz.jpeg
